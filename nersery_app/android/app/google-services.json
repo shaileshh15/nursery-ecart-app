@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534417815482",
+    "project_id": "nerseryecartapp",
+    "storage_bucket": "nerseryecartapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534417815482:android:c1768771d6bbbdf3010f83",
+        "android_client_info": {
+          "package_name": "com.example.nersery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiPkD9dTcaPLAqdjoejD_t4r_JfrsYQqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

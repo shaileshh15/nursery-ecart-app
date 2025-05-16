@@ -1,0 +1,61 @@
+# Flutter/Dart
+*.dart_tool/
+*.dart_tool
+*.flutter-plugins
+*.flutter-plugins-dependencies
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutterfire/
+.flutterfire
+.web/
+.web
+.build/
+.build
+
+# Flutter packages
+.packages
+.pub-cache/
+.pub-cache
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Build output
+build/
+build
+
+# Dependencies
+flutter_web_plugins/
+
+# Testing
+coverage/
+coverage
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Firebase
+firebase-debug.log
+firebase-debug.*.log
+
+# Local development
+*.pem
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*.swp
+*.swo
